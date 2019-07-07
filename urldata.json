@@ -1,12 +1,62 @@
 ﻿{
-    video: [
-        { "title": "百度", url: "http://www.baidu.com" },
-        { "title": "百度", url: "http://www.baidu.com" },
-        { "title": "百度1", url: "http://www.baidu.com" }
-    ],
-    picture: [ { "title": "测试", url: "http://www.baidu.com" }, { "title": "测试", url: "http://www.baidu.com" } ],
-    novel: [ { "title": "测试", url: "http://www.baidu.com" }, { "title": "测试", url: "http://www.baidu.com" } ],
-    jxVideo: [ { "title": "AV大师", url: "http://www.baidu.com" }, { "title": "百度", url: "http:/www.baidu.com" } ],
-    jxPicture: [ { "title": "测试", url: "http://www.baidu.com" }, { "title": "测试", url: "http://www.baidu.com" } ],
-    serviceUrl: "192.168.1.1"
+  "video": [
+    {
+      "title": "百度",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "百度",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "百度1",
+      "url": "http://www.baidu.com"
+    }
+  ],
+  "picture": [
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    }
+  ],
+  "novel": [
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    }
+  ],
+  "jxVideo": [
+
+    {
+      "title": "AV大师",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "百度",
+      "url": "http:/www.baidu.com"
+    },
+    {
+      "title": "无广告",
+      "url": "https://qinqin180.com"
+    }
+  ],
+  "jxPicture": [
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "title": "测试",
+      "url": "http://www.baidu.com"
+    }
+  ],
+  "serviceUrl": "192.168.1.1"
 }
